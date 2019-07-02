@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:Backend/etc/menu.xsd">
+    <menu>
+        <add id="relevanz_tracking::statistics" title="releva.nz Dashboard" module="Relevanz_Tracking" sortOrder="10" parent="Magento_Reports::report_marketing" action="relevanz_tracking/statistics" resource="Relevanz_Tracking::statistics"/>
+    </menu>
+</config>
