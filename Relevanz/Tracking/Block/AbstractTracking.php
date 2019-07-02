@@ -11,7 +11,7 @@ namespace Relevanz\Tracking\Block;
 class AbstractTracking extends \Magento\Framework\View\Element\Template{
 
     const PROTOCOL      =   'https';
-    const TRACKING_URL  =   'pix.hyj.mobi';
+    const TRACKING_URL  =   'pix.argh.mobi';
     const URL_PATH      =   'rt';
 
     protected $_clientId;

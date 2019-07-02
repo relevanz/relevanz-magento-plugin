@@ -15,7 +15,7 @@ namespace Relevanz\Tracking\Block;
 
 class Success extends \Relevanz\Tracking\Block\AbstractTracking{
 
-    const TRACKING_URL  =   'd.hyj.mobi';
+    const TRACKING_URL  =   'd.argh.mobi';
     const URL_PATH      =   'convNetw';
 
     /**
